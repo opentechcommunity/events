@@ -3,7 +3,9 @@
 Open Tech Community celebrated the Open Data Week 2024 with the Open Datathon event. As a pre-event, orientation events were organized through various colleges in Kathmandu with student clubs of the college. The pre-event collective reached approximately 500 students across institutions, the Open Datathon aims to promote open technologies, encourage the use of open data, and share insights about the upcoming Open Data Week 2024.
 
 **College Collaborators for Open Data Week 2024 (ODW24) pre-events**
+
 As student clubs were the target of the ODW24, the pre-event was supported by:
+
 **1. Pre-event at Virinchi College**
 ![pasted image 0.png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200.png?raw=true)
 
