@@ -163,3 +163,6 @@ Keep an eye out for the vibrant event banner that encapsulates the essence of th
 As the Open Datathon gains momentum, it's evident that this gathering of minds is not just an event; it's a step towards a more sustainable and connected future.
 
 ![pasted image 0 (15).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(15).png?raw=true)
+
+**Outcome**
+The Open Datathon event energized our open data community, fostering collaboration and innovation. It engaged 7 diverse teams, promoting sustainable solutions for a greener future. Through mentorship and idea-sharing, participants developed impactful projects, supporting the power of open data in solving real-world challenges. This vibrant gathering not only celebrated creativity but also laid the groundwork for a connected future. A heartfelt thanks to the Open Knowledge Foundation for this opportunity, ensuring that our community remains dynamic and ready to tackle tomorrow's challenges with the spirit of openness and collaboration.
