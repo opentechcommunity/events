@@ -1,5 +1,6 @@
 
 
+
 Open Tech Community celebrated the Open Data Week 2024 with the Open Datathon event. As a pre-event, orientation events were organized through various colleges in Kathmandu with student clubs of the college. The pre-event collective reached approximately 500 students across institutions, the Open Datathon aims to promote open technologies, encourage the use of open data, and share insights about the upcoming Open Data Week 2024.
 
 **College Collaborators for Open Data Week 2024 (ODW24) pre-events**
@@ -137,6 +138,10 @@ The Open Datathon Event was a dynamic and engaging gathering that fostered colla
 **Mascot Release**
 
 A symbol of Open Data has always been a search for us in community activities. We released a new Open Data Mascot as a contribution to Open Data communities under Creative Commons license.
+
+The brand-new Open Data Mascot, "DataBuzz Duo" promotes the idea of transparency, collaboration, and the power of data!
+
+As its designer Arjun Gautam says: "DataBuzz Duo" is brought to life by two adorable cartoon bees, presenting the idea of a dynamic spirit of collaboration and teamwork. The background has regular hexagonal shape with text "Open Data", symbolizing the strength and unity within our Open Data Community.
 
 ![pasted image 0 (9).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(9).png?raw=true)
 
