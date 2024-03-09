@@ -79,17 +79,17 @@ We open up an online application form for participants to submit their idea and 
 
 To support the participants of Datathon to build their idea we take support of esteemed local community partners to mentor participants. These include
 
-1.  Flutter Kathmandu
+1.  Flutter Kathmandu: Damodar Lohani helped the participants on solving problems related to mobile application development.
     
-2.  Kathmandu Living Labs
+2.  Kathmandu Living Labs: Bhawak Pokhrel helped the participants on solving problems related to building civic technology.
     
-3.  Open Knowledge Nepal
+3.  Open Knowledge Nepal: James Shrestha helped the participants on solving problems related to the concepts of open data.
     
-4.  YouthMapper Nepal
+4.  YouthMapper Nepal: Nishan Aryal helped the participants on solving problems related to the concepts of data used in open source communities and the concept of green and circular economy.
     
-5.  Women Leader in Information Technology
+5.  Women Leader in Information Technology: Sarila Ngakhusi helped the participants on solving problems related to the concepts of data visualization, web application and business model.
     
-6.  Samarpan Youth Initiative.
+6.  Open Tech Community: Pawan Kumar Kandel & Arjun Gautam helped the participants on solving problems related to the concepts of building product.
     
 
 **Open Datathon Event**
