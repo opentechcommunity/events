@@ -4,29 +4,37 @@ Open Tech Community celebrated the Open Data Week 2024 with the Open Datathon ev
 
 **College Collaborators for Open Data Week 2024 (ODW24) pre-events**
 
+The goal of the pre-events were to orient the students of colleges to understand the concept of Open Technologies and gain the technical aspect of Open Data which would ease them in participating in the OWD24. Also, these events would bring new and fresh open data enthusiasts in the Open Data Community.
+
 As student clubs were the target of the ODW24, the pre-event was supported by:
 
 **1. Pre-event at Virinchi College**
+
 Located at the lalitpur city of kathmandu district we did this event on February 25.
 ![pasted image 0.png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200.png?raw=true)
 
 **2. Pre-event at Texas International College**
+
 Located at the kathmandu city we did this event on February 26.
 ![pasted image 0 (1).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(1).png?raw=true)
 
 **3. Pre-event at Institute of Crisis Management Studies, Samarpan Academy**
+
 Located at the kathmandu city we did this event on February 27.
 ![pasted image 0 (2).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(2).png?raw=true)
 
 **4. Medhavi College**
+
 Located at the kathmandu city we did this event on February 28.
 ![pasted image 0 (3).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(3).png?raw=true)
 
 **5. St. Xavier's College**
+
 Located at the kathmandu city we did this event on February 29.
 ![pasted image 0 (4).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(4).png?raw=true)
 
 **6. Amrit Campus**
+
 Located at the kathmandu city we did this event on February 29.
 ![pasted image 0 (5).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(5).png?raw=true)
 
@@ -39,6 +47,8 @@ We used Open Tech Community’s Facebook page and twitter page as our social med
 -   **Facebook**: [facebook.com/opentechcommunity](https://facebook.com/opentechcommunity)
     
 -   **Twitter**: [twitter.com/OpenTechNP](https://twitter.com/OpenTechNP)
+
+-   **Youtube**: [youtube.com/@opentechcommunity](https://www.youtube.com/watch?v=YsBu2_bWBIg&ab_channel=OpenTechCommunity)
     
 
 **Main Event - Open Data Week 2024, Open Datathon**
