@@ -94,7 +94,7 @@ To support the participants of Datathon to build their idea we take support of e
 
 **Open Datathon Event**
 
-The event was an interactive event with participants presenting their ideas and mentors guiding them to create the solution:
+The Open Datathon Event was a dynamic and engaging gathering that fostered collaboration and innovation within the realm of data-driven problem-solving on Green and Circular Economy (SDG 11: Sustainable cities and communities). Participants showcase their ideas and expertise in leveraging data to address real-world challenges related to GCE. The event's interactive nature between mentors and participants created a vibrant atmosphere where participants actively presented their unique perspectives and potential solutions.
 
 ![pasted image 0 (7).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(7).png?raw=true)
 
