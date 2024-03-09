@@ -40,6 +40,7 @@ Located at the kathmandu city we did this event on February 29.
 
 Each college plays a vital role to create a vibrant environment for students to learn and explore on open technologies and open data.
 
+
 **Social Media Buzz**
 
 We used Open Tech Community’s Facebook page and twitter page as our social media outlets of the events and activities:
@@ -50,6 +51,7 @@ We used Open Tech Community’s Facebook page and twitter page as our social med
 
 -   **Youtube**: [youtube.com/@opentechcommunity](https://www.youtube.com/watch?v=YsBu2_bWBIg&ab_channel=OpenTechCommunity)
     
+
 
 **Main Event - Open Data Week 2024, Open Datathon**
 
@@ -62,8 +64,16 @@ We used Open Tech Community’s Facebook page and twitter page as our social med
 The main event is set to explore the potential of open data in promoting sustainable practices, with a specific focus on Sustainable Cities and Communities. This aligns with the broader global effort to achieve the United Nations Sustainable Development Goals (SDGs).
 
 We open up an online application form for participants to submit their idea and selected 7 teams from the submitted idea:
+- **Dumba**: Easing in public transportation
+- **Impact Minds**: Finding accommodation easily
+- **TechBug**: Improve local bus transportation
+- **Team Infinite**: Community driven farming
+- **Nyano Nano**: Managing parking spaces
+- **Team ICMS**: City pollution analysis
+- **Glocal**: Recycling city and community waste
 
 ![pasted image 0 (6).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(6).png?raw=true)
+
 
 **Local Community Partners as Mentors**
 
