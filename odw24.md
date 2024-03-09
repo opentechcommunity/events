@@ -105,12 +105,23 @@ The event unfolds in a multi-faceted schedule:
     
 
 **First day at the venue**
+
+On the first day of the datathon event, teams and mentors gathered to share their ideas. Teams talked about their plans, and mentors gave guidance. When teams got closer to mentors, the mentors helped them understand what they needed to do and what they didn't need to worry about. It was a day of exchanging ideas and getting helpful advice. 
+
 ![pasted image 0 (11).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(11).png?raw=true)
 
 **Four days of remote mentorship with online sessions**
+
+For the next four days, the event continued online with two sessions each day. In the first session, mentors talked about things that would help teams develop a strong idea. Then, in the second session, participants could ask questions, interact, and share how they were doing with their projects. It was a way for everyone to learn and work together.
+
 ![pasted image 0 (12).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(12).png?raw=true)
 
 **Final day back at the venue**
+On the last day, participants finished up their ideas and plans for a product that uses open data to solve a problem. They then presented these ideas to the judges. The judges for the day were:
+- Nishan Aryal, who is an ambassador for YouthMapper in Asia-Pacific
+- Bhawak Pokhrel, a senior mobile engineer at Kathmandu Living Labs
+- Arjun Gautam, who is a community organizer for Open Tech Community.
+
 ![pasted image 0 (13).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(13).png?raw=true)
 
 This diverse format allows participants to immerse themselves in the collaborative spirit of the Open Datathon, benefiting from both in-person interactions and remote guidance.
