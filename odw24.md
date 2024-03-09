@@ -145,9 +145,12 @@ As its designer Arjun Gautam says: "DataBuzz Duo" is brought to life by two ador
 
 ![pasted image 0 (9).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(9).png?raw=true)
 
-**Datathon Selected Team**
+**Winning Team at Open Datathon**
 
-From among the 7 selected teams, "Team Dumba" from Amrit Campus has been selected for their outstanding product idea, "YetaUta," showcasing how their innovation can streamline transportation in dense city areas.
+Out of the 7 teams that took part, the winning team is "Team Dumba" from Amrit Campus. They stood out because of their amazing product idea called "YetaUta." This idea is all about making transportation in busy city areas smoother and more efficient.
+
+"Team Dumba" showed everyone how their innovation could really make a difference. They came up with creative ways to improve how people move around in crowded cities. Their outstanding effort and unique approach set them apart from the other teams. This recognition highlights their dedication and clever thinking in solving real-world problems during the Datathon event.
+
 ![pasted image 0 (10).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(10).png?raw=true)
 
 **Next Steps for the Winners**
