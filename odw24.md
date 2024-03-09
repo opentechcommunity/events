@@ -7,21 +7,27 @@ Open Tech Community celebrated the Open Data Week 2024 with the Open Datathon ev
 As student clubs were the target of the ODW24, the pre-event was supported by:
 
 **1. Pre-event at Virinchi College**
+Located at the lalitpur city of kathmandu district we did this event on February 25.
 ![pasted image 0.png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200.png?raw=true)
 
 **2. Pre-event at Texas International College**
+Located at the kathmandu city we did this event on February 26.
 ![pasted image 0 (1).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(1).png?raw=true)
 
 **3. Pre-event at Institute of Crisis Management Studies, Samarpan Academy**
+Located at the kathmandu city we did this event on February 27.
 ![pasted image 0 (2).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(2).png?raw=true)
 
 **4. Medhavi College**
+Located at the kathmandu city we did this event on February 28.
 ![pasted image 0 (3).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(3).png?raw=true)
 
 **5. St. Xavier's College**
+Located at the kathmandu city we did this event on February 29.
 ![pasted image 0 (4).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(4).png?raw=true)
 
 **6. Amrit Campus**
+Located at the kathmandu city we did this event on February 29.
 ![pasted image 0 (5).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(5).png?raw=true)
 
 Each college plays a vital role to create a vibrant environment for students to learn and explore on open technologies and open data.
