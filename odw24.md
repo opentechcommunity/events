@@ -90,27 +90,9 @@ To support the participants of Datathon to build their idea we take support of e
 5.  **Women Leader in Information Technology**: Sarila Ngakhusi helped the participants on solving problems related to the concepts of data visualization, web application and business model.
     
 6.  **Open Tech Community**: Pawan Kumar Kandel & Arjun Gautam helped the participants on solving problems related to the concepts of building product.
+
+
     
-
-**Open Datathon Event**
-
-The Open Datathon Event was a dynamic and engaging gathering that fostered collaboration and innovation within the realm of data-driven problem-solving on Green and Circular Economy (SDG 11: Sustainable cities and communities). Participants showcase their ideas and expertise in leveraging data to address real-world challenges related to GCE. The event's interactive nature between mentors and participants created a vibrant atmosphere where participants actively presented their unique perspectives and potential solutions.
-
-![pasted image 0 (7).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(7).png?raw=true)
-
-![pasted image 0 (8).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(8).png?raw=true)
-
-**Mascot Release**
-
-A symbol of Open Data has always been a search for us in community activities. We released a new Open Data Mascot as a contribution to Open Data communities under Creative Commons license.
-
-![pasted image 0 (9).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(9).png?raw=true)
-
-**Datathon Selected Team**
-
-From among the 7 selected teams, "Team Dumba" from Amrit Campus has been selected for their outstanding product idea, "YetaUta," showcasing how their innovation can streamline transportation in dense city areas.
-![pasted image 0 (10).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(10).png?raw=true)
-
 **Event Schedule**
 
 The event unfolds in a multi-faceted schedule:
@@ -132,6 +114,25 @@ The event unfolds in a multi-faceted schedule:
 ![pasted image 0 (13).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(13).png?raw=true)
 
 This diverse format allows participants to immerse themselves in the collaborative spirit of the Open Datathon, benefiting from both in-person interactions and remote guidance.
+
+**Open Datathon Event**
+
+The Open Datathon Event was a dynamic and engaging gathering that fostered collaboration and innovation within the realm of data-driven problem-solving on Green and Circular Economy (SDG 11: Sustainable cities and communities). Participants showcase their ideas and expertise in leveraging data to address real-world challenges related to GCE. The event's interactive nature between mentors and participants created a vibrant atmosphere where participants actively presented their unique perspectives and potential solutions.
+
+![pasted image 0 (7).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(7).png?raw=true)
+
+![pasted image 0 (8).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(8).png?raw=true)
+
+**Mascot Release**
+
+A symbol of Open Data has always been a search for us in community activities. We released a new Open Data Mascot as a contribution to Open Data communities under Creative Commons license.
+
+![pasted image 0 (9).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(9).png?raw=true)
+
+**Datathon Selected Team**
+
+From among the 7 selected teams, "Team Dumba" from Amrit Campus has been selected for their outstanding product idea, "YetaUta," showcasing how their innovation can streamline transportation in dense city areas.
+![pasted image 0 (10).png](https://github.com/opentechcommunity/events/blob/main/owd24/pasted%20image%200%20(10).png?raw=true)
 
 **Next Steps for the Winners**
 
